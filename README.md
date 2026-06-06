@@ -98,23 +98,7 @@ Exploring brain-inspired architectures, agent collaboration, memory systems, lig
 
 ---
 
-# 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/fireboltmagnum/fireboltmagnum/output/github-contribution-grid-snake.svg" />
-</p>
-
-> Note: you'll need a GitHub Action to generate this automatically.
-
----
-
-# ⏱️ Wakatime Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 # 🎯 Currently Building
 
