@@ -97,7 +97,9 @@ Exploring brain-inspired architectures, agent collaboration, memory systems, lig
 </p>
 
 ---
-![](https://hackatime.hackclub.com{fireboltmagnum}&api_domain=waka.hackclub.com&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Hackatime%20Week%20Stats&layout=compact)
+(https://hackatime.hackclub.com{fireboltmagnum}&api_domain=waka.hackclub.com&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Hackatime%20Week%20Stats&layout=compact)
+<img src="https://vercel.app" alt="Hackatime Stats" />
+
 
 
 # 🎯 Currently Building
