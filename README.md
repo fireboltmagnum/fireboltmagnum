@@ -5,30 +5,31 @@
   Hi, I'm <strong>Aditya Nair</strong>
 </h1>
 
-<h3>🧠 AI Systems Engineer | ⚡ Agentic AI | 🚀 Future Founder</h3>
+<h3>🧠 AI Systems Engineer | ⚡ Agentic AI | 🚀 Future Founder|🧠 Computational Nueroscience </h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
     I'm a student developer from India who loves building ambitious software,
-    experimenting with AI systems, designing autonomous agents,
+    experimenting with AI systems, biulding neural networks, ML,
+    designing autonomous agents,
     and creating projects that seem impossible until they work.
   </p>
 
   <p>
     My interests include artificial intelligence, brain-inspired architectures,
-    automation platforms, developer tools, full-stack development,
-    system design, and futuristic user experiences.
+    developer tools, full-stack development,
+    system design, and computational nueral networks.
   </p>
 
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
     <a href="mailto:hello.adityano@gmail.com"><img src="https://img.shields.io/badge/📧_Email-1e1e2e?style=for-the-badge" /></a>
     <img src="https://img.shields.io/badge/🧠_AI_Research-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/⚙️_Automation-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/⚙️_computational nueroscience-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/🚀_Building_AXIOM-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🔥_ForgeFlow-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🔥_WorldField-1e1e2e?style=for-the-badge" />
   </p>
 
 <h3>🌐 Connect</h3>
