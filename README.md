@@ -53,13 +53,13 @@
 
 A next-generation AI workspace focused on autonomous agents, advanced workflows, memory systems, and futuristic user experiences.
 
-### ⚙️ ForgeFlow
+### 🧠 WorldField
 
-A large-scale automation platform connecting AI, productivity tools, cloud services, and intelligent workflows.
+A large-scale attempt at trully multimodal input and output supporting SLNNs and more.
 
 ### 🔬 Experimental AI Research
 
-Exploring brain-inspired architectures, agent collaboration, memory systems, lightweight training, and future AI capabilities.
+Exploring brain-inspired architectures, agent collaboration, memory systems, training, and future AI capabilities.
 
 ---
 
@@ -67,7 +67,7 @@ Exploring brain-inspired architectures, agent collaboration, memory systems, lig
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,react,nextjs,nodejs,express,mongodb,postgresql,firebase,git,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,react,nextjs,nodejs,express,mongodb,postgresql,firebase,git,vscode,figma,tauri" />
 
 </p>
 
@@ -106,7 +106,7 @@ Exploring brain-inspired architectures, agent collaboration, memory systems, lig
 # 🎯 Currently Building
 
 * 🧠 AXIOM
-* ⚙️ ForgeFlow
+* 🧠 WorldField
 * 🤖 Agentic AI Systems
 * 🔬 AI Research Experiments
 * 🛠️ Developer Productivity Tools
@@ -115,13 +115,13 @@ Exploring brain-inspired architectures, agent collaboration, memory systems, lig
 
 # 🗺️ Roadmap
 
-* [ ] Launch AXIOM MVP
-* [ ] Launch ForgeFlow MVP
-* [ ] Build advanced AI memory systems
-* [ ] Create autonomous multi-agent workflows
-* [ ] Publish open-source AI tools
-* [ ] Learn more about brain-inspired computing
-
+*  ✓ Launch AXIOM MVP
+*  ✓ Start research on WorldField
+*  ✓ Build advanced semantic search systems
+*  ✓ Create autonomous multi-agent workflows
+*  ✓ Publish open-source AI tools
+*  ✓ Learn more about brain-inspired computing
+*[ ] Launch WorldField MVP  
 ---
 
 # 📝 Latest Thoughts
@@ -146,7 +146,7 @@ is where it gets interesting.
 # ⚡ Fun Facts
 
 * Started coding young and immediately jumped into ambitious projects.
-* Interested in AI, automation, languages, system design, and futuristic software.
+* Interested in AI, nueroscience, languages, system design, and hardware.
 * Loves designing huge systems before writing code.
 * Believes the coolest projects start as crazy ideas.
 
